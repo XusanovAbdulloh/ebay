@@ -1,0 +1,110 @@
+.create-container{
+    width: 1512px;
+    height: 683px;
+    margin: auto;
+}
+.login-link{
+    position: absolute;
+    top: 50px;
+    left: 1260px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+color: #101010;
+}
+.create-h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.create-wrrapper{
+    display: flex;
+    width: 774px;
+    height: 400px;
+    margin: auto;
+    align-items: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    padding-right: 86.5px;
+    border-right: 1px solid #CCCCCC;
+}
+.two-inputs{
+    display: flex;
+    gap: 0 24px;
+}
+.create-in-fr-name{
+    width: 138px;
+    height: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background: #F7F7F7;
+border: 1px solid #8F8F8F;
+border-radius: 8px;
+outline: none;
+}
+.create-in-ls-name{
+    width: 138px;
+    height: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background: #F7F7F7;
+border: 1px solid #8F8F8F;
+border-radius: 8px;
+outline: none;
+}
+.create-in-email{
+    width: 300px;
+    height: 40px;
+    background: #F7F7F7;
+border: 1px solid #8F8F8F;
+border-radius: 8px;
+margin-top: 24px;
+}
+.create-in-password{
+    width: 300px;
+    height: 40px;
+    background: #F7F7F7;
+border: 1px solid #8F8F8F;
+border-radius: 8px;
+margin-top: 24px;
+}
+.create-text{
+    width: 291px;
+    margin-top: 26px;
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+color: #767676;
+}
+.form-sb-btn{
+    padding: 15px 91.5px;
+    margin-top: 33px;
+    background: #C7C7C7;
+border: 1px solid #C7C7C7;
+border-radius: 24px;
+color: #fff;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+}
+.create-googleeee{
+    margin-left: 86.5px;
+    width: 300px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 20px;
+    border: 1px solid #000000;
+border-radius: 24px;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+color: black;
+background-color: #fff;
+}
